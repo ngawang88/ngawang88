@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ngawang Samten Pelzang..
 - 👀 I’m interested in Software Devlopment
 - 🌱 I’m currently learning BlockChain
-- 💞️ I’m looking to collaborate on Web and app delopment 
+- 💞️ I’m looking to collaborate on Web and app development 
 - 📫 reach me through nspunk767@gmail.com
 
 
