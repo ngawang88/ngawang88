@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ngawang Samten Pelzang..
-- 👀 I’m interested in Software Devlopment
-- 🌱 I’m currently learning BlockChain
-- 💞️ I’m looking to collaborate on Web and app development 
-- 📫 reach me through nspunk767@gmail.com
+ 👋 Hi, I'm Ngawang Samten Pelzang! 👀I'm a software developer with a passion for creating beautiful and functional applications. I specialize in web development using React JS and Django, and have experience with Android development using Android Studio and Flutter. I have a strong interest in building scalable and efficient systems, and love learning about new technologies. In my free time, you can find me exploring the outdoors or contributing to open source projects on GitHub. Feel free to reach out to me if you have any questions or just want to chat!📫 reach me through nspunk767@gmail.com
 
 
 
